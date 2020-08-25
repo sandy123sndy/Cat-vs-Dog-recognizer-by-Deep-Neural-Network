@@ -1,0 +1,2 @@
+# Cat-vs-Dog-recognizer-by-Deep-Neural-Network
+This project is on classifying images of cats and dogs with the help of deep neural network. This is my first project on Deep Learning. I got a very good metric for all the training,validation and testing accuracy. I have used images of cats and dogs as my data which has been taken from "KAGGLE". Link of my data set: 'https://www.kaggle.com/c/dogs-vs-cats/data'
